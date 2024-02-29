@@ -1,0 +1,52 @@
+{
+  "carousalImage": [
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Mugs-joyful-wednesday-homepage-banner_1.jpg?format=webp&w=1500&dpr=2.0"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Homepage-Banner_12_STwBWWv.jpg?format=webp&w=1500&dpr=2.0"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Plaid-Shirts-Offer-Campaign_HomePage-Banner.jpg?format=webp&w=1500&dpr=2.0"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Homepage-Banner_11.jpg?format=webp&w=1500&dpr=2.0"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/web-banne.png?format=webp&w=1500&dpr=2.0"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Homepage-Banner_copy_2.jpg?format=webp&w=1500&dpr=2.0"
+    }
+  ],
+  "categories": [
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big-Tile-OVERSIZED-T-SHIRTS_2_Cd7zgtL.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "OVERSIZED T-SHIRT"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big-Tile-JEANS_1_NPrx5ln.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "JEANS"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big-Tile-SHIRTS_2_zNRzgyU.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "SHIRT"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Sneakers_2_ZXswKyX.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "SNEAKERS"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-OVERSIZED-POLOS_1_9oTwt12.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "OVERSIZED POLOS"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-OS-Full-Sleeve_EAeqCzz.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "OVERSIZED FULL SLEEVE T-SHIRT"
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Jackets_4_7tG57KX.jpg?format=webp&w=480&dpr=2.0",
+      "categoryType": "JACKETS"
+    }
+  ]
+}
